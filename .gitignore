@@ -80,7 +80,6 @@ Desktop.ini
 
 # Project specific
 temp/
-assets/preview.png
 !models/.gitkeep
 models/*.pkl
 *.zip
